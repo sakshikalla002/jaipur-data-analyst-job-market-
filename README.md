@@ -48,5 +48,3 @@ to that segment in real time.
 ## Tools & Technologies
 
 `Python` `pandas` `SQL Server` `Excel` `Tableau` `Adzuna API`
-
-## Project Structure
