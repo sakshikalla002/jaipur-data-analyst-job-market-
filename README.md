@@ -33,8 +33,8 @@ A complete pipeline covering the full analyst toolkit:
 - **79 unique job postings** analyzed across Jaipur for data-analyst-type roles
 - **[Most in-demand skill, e.g. SQL/Excel]** appeared most frequently in job descriptions
 - **[X]%** of postings fell into the "Mid-level / Not Specified" experience category — suggesting most Jaipur listings don't clearly state required experience
-- Only **[37/79]** listings disclosed salary, with Senior roles averaging **₹[X]L–₹[Y]L** vs Mid-level at **₹[X]L–₹[Y]L**
-- **[Top company]** was the most active hirer in this space
+- Only **[37/79]** listings disclosed salary, with Senior roles averaging **₹4.4L–₹10.4L** vs Mid-level at **₹7L–₹16L**
+- **[Top company (Amazon)]** was the most active hirer in this space
 
 ## Dashboard Preview
 
